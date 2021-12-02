@@ -1,0 +1,162 @@
+*{
+     box-sizing: 0%;
+}
+body{
+      background-color: rgb(155, 155, 141);
+}
+#container{
+      width:70%;
+      background-color: white;
+      height: 1750px;
+      margin: 0px auto;
+
+}
+#header{
+     width: 100%;
+     height: 10px;
+     padding-top: 10px;
+}
+#header ul{
+      text-decoration: none;
+      text-align: center;
+      word-spacing: 5rem;
+      font-size: 1rem;
+}
+#header ul li{
+         display: inline;
+}
+#header ul li a{
+      text-decoration: none;
+      color: black;
+      font-weight: 900;
+} 
+
+#sp p{
+      text-align: center;
+      font-size: 5rem;
+      font-weight: 900;
+      font-style: oblique;
+      margin-bottom: 10px;
+}
+#banner{
+      width: 100%;
+      padding-bottom: 20px;
+      position: relative;
+}
+#input{
+      text-align:center ;
+}
+#content1{
+      width: 30%;
+      height: 350px;
+      background-color:gray;
+      float: left;
+      margin-right: 2%;
+      margin-bottom: 1%;
+      margin-left: 1%;
+}
+#content2{
+      width: 30%;
+      height: 350px;
+      background-color: gray;
+      float: left;
+      margin-bottom: 1%;
+      margin-left: 1%;
+}
+#content3{
+      width: 30%;
+      height: 350px;
+      background-color:gray;
+       float: right;
+       margin-bottom: 1%;
+       margin-left: 1%;
+       margin-right: 1%;
+}
+#content4{
+      width: 30%;
+      height: 350px;
+      background-color: red;
+      float: left;
+      margin-right: 2%;
+      margin-left: 1%;
+      margin-right: 2%;
+      margin-bottom: 2%;
+}
+#content5{
+      width: 30%;
+      height: 350px;
+      background-color: blueviolet;
+      float: left;
+      margin-left: 1%;
+      margin-bottom: 2%;   
+}
+#content6{
+      width: 30%;
+      height: 350px;
+      background-color: goldenrod;
+      float: right;
+      margin-left: 1%;
+      margin-right: 1%;
+      margin-bottom: 2%;
+}
+#content7{
+      width: 45%;
+      height: 200px;
+      background-color: red;
+      float: left;
+      margin-top: 100px;
+    
+}
+#content8{
+      width: 45%;
+      height: 200px;
+      background-color: greenyellow;
+      float: right;
+      margin-top: 100px;
+     
+}
+ .clc1{
+      background-color: greenyellow;
+      padding: 1rem;
+      margin-top: 1px;
+}
+.clc2{
+      background-color: greenyellow;
+      padding: 1rem;
+      margin-top: 1px;
+}
+.clc3{
+      background-color: greenyellow;
+      padding: 1rem;
+      margin-top: 1px;
+}
+.bottom1{
+     background-color: greenyellow;
+      padding: 1rem;
+      margin-bottom: 5px; 
+      float: right;
+}
+.bottom2{
+     background-color: greenyellow;
+      padding: 1rem;
+      margin-bottom: 5px;
+      float: right; 
+}
+.bottom3{
+     background-color: greenyellow;
+      padding: 1rem;
+      margin-bottom:5px;
+      float: right; 
+}
+.trt{
+      height: 10vh;
+      width: 100%;
+      background: url("images/Tree.jpg") no-repeat center/cover;
+      margin-bottom: 100vh;
+}
+
+
+
+
+
+
